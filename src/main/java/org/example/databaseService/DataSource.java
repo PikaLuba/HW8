@@ -23,7 +23,7 @@ public class DataSource {
         ds = new HikariDataSource(config);
         Flyway flyway = Flyway.configure()
                 .dataSource(ds)
-                .locations("db/migration")
+                .locations("db.migration")
                 .load();
         flyway.migrate();
     }
