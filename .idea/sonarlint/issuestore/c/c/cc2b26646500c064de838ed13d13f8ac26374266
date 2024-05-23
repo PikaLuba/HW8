@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÑ÷Ÿøÿÿÿÿ8ãëÒ·ù1J$bfb9f758-b74c-4de1-9cbd-a31e83cafd79
+–
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž“ê­8éëÒ·ù1J$fa50ea5f-d202-47c6-a055-57289cf18be4
+á
+java:S6548
+"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ãÍ•ñýÿÿÿÿ8íëÒ·ù1J$489ebbc2-2497-49ea-982d-f98be1a86459
+g
+java:S3010"Remove this assignment of "ds".(ã½Õƒûÿÿÿÿ8žµ° ú1J$e7891687-d3f6-4c61-97fb-85bc0f3d3aa0
